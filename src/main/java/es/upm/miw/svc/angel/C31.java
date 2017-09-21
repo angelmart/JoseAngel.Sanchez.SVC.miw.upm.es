@@ -13,5 +13,9 @@ public class C31 {
     public String m2() {
         return "C31.m2()"; 
     }
+    
+    public String mB() {
+        return "C31.mB()"; 
+    }
 
 }
